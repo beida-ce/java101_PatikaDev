@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java101/ATM_app/ATM_app.iml" filepath="$PROJECT_DIR$/java101/ATM_app/ATM_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/ArrangementThreeNumber/ArrangementThreeNumber.iml" filepath="$PROJECT_DIR$/java101/ArrangementThreeNumber/ArrangementThreeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ArrayMaxMin/ArrayMaxMin.iml" filepath="$PROJECT_DIR$/Arrays/ArrayMaxMin/ArrayMaxMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ArraySorting/ArraySorting.iml" filepath="$PROJECT_DIR$/Arrays/ArraySorting/ArraySorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/AverageOfArray/AverageOfArray.iml" filepath="$PROJECT_DIR$/Arrays/AverageOfArray/AverageOfArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/B_withMatrix/B_withMatrix.iml" filepath="$PROJECT_DIR$/Arrays/B_withMatrix/B_withMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/Combination/Combination.iml" filepath="$PROJECT_DIR$/java101/Combination/Combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/DiamondShape/DiamondShape.iml" filepath="$PROJECT_DIR$/java101/DiamondShape/DiamondShape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/Ebob_Ekok/Ebob_Ekok.iml" filepath="$PROJECT_DIR$/java101/Ebob_Ekok/Ebob_Ekok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/java101/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Fibonacci_wMethods/Fibonacci_wMethods.iml" filepath="$PROJECT_DIR$/Methods/Fibonacci_wMethods/Fibonacci_wMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/HarmonicSeries/HarmonicSeries.iml" filepath="$PROJECT_DIR$/java101/HarmonicSeries/HarmonicSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/InvertedTriangleShape/InvertedTriangleShape.iml" filepath="$PROJECT_DIR$/java101/InvertedTriangleShape/InvertedTriangleShape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/java101/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/LoopPratics1/LoopPratics1.iml" filepath="$PROJECT_DIR$/java101/LoopPratics1/LoopPratics1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/LoopPratics2/LoopPratics2.iml" filepath="$PROJECT_DIR$/java101/LoopPratics2/LoopPratics2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/LoopPratics3/LoopPratics3.iml" filepath="$PROJECT_DIR$/java101/LoopPratics3/LoopPratics3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OtherTopics/NumberGuessingGame/NumberGuessingGame.iml" filepath="$PROJECT_DIR$/OtherTopics/NumberGuessingGame/NumberGuessingGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OtherTopics/PalindromeWord/PalindromeWord.iml" filepath="$PROJECT_DIR$/OtherTopics/PalindromeWord/PalindromeWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/PerfectNumbeFinder/PerfectNumbeFinder.iml" filepath="$PROJECT_DIR$/java101/PerfectNumbeFinder/PerfectNumbeFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/PlaneTicket/PlaneTicket.iml" filepath="$PROJECT_DIR$/java101/PlaneTicket/PlaneTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/PrimeNumberFinder/PrimeNumberFinder.iml" filepath="$PROJECT_DIR$/java101/PrimeNumberFinder/PrimeNumberFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/RecursivePattern/RecursivePattern.iml" filepath="$PROJECT_DIR$/Methods/RecursivePattern/RecursivePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/RepeatingNumbers/RepeatingNumbers.iml" filepath="$PROJECT_DIR$/Arrays/RepeatingNumbers/RepeatingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/RepeatingNumbersFrequency/RepeatingNumbersFrequency.iml" filepath="$PROJECT_DIR$/Arrays/RepeatingNumbersFrequency/RepeatingNumbersFrequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/OOP/SalaryCalculator/SalaryCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/StudentGradeSystem/StudentGradeSystem.iml" filepath="$PROJECT_DIR$/OOP/StudentGradeSystem/StudentGradeSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/SwitchCaseHoroscope/SwitchCaseHoroscope.iml" filepath="$PROJECT_DIR$/java101/SwitchCaseHoroscope/SwitchCaseHoroscope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/TranspozeOfMatrix/TranspozeOfMatrix.iml" filepath="$PROJECT_DIR$/Arrays/TranspozeOfMatrix/TranspozeOfMatrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/UserLoginSystem/UserLoginSystem.iml" filepath="$PROJECT_DIR$/java101/UserLoginSystem/UserLoginSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/bmiCalculator/bmiCalculator.iml" filepath="$PROJECT_DIR$/java101/bmiCalculator/bmiCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/boxingSimulator/boxingSimulator.iml" filepath="$PROJECT_DIR$/OOP/boxingSimulator/boxingSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/chineseZodiac/chineseZodiac.iml" filepath="$PROJECT_DIR$/java101/chineseZodiac/chineseZodiac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/circleCalculations/circleCalculations.iml" filepath="$PROJECT_DIR$/java101/circleCalculations/circleCalculations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/exponentsWithMethods/exponentsWithMethods.iml" filepath="$PROJECT_DIR$/Methods/exponentsWithMethods/exponentsWithMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/gradePointAverage/gradePointAverage.iml" filepath="$PROJECT_DIR$/java101/gradePointAverage/gradePointAverage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/groceryStore/groceryStore.iml" filepath="$PROJECT_DIR$/java101/groceryStore/groceryStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/hypotenuseCalculation/hypotenuseCalculation.iml" filepath="$PROJECT_DIR$/java101/hypotenuseCalculation/hypotenuseCalculation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java101_PatikaDev.iml" filepath="$PROJECT_DIR$/.idea/java101_PatikaDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/kdvCalculator/kdvCalculator.iml" filepath="$PROJECT_DIR$/java101/kdvCalculator/kdvCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalProject/minesweeper/minesweeper.iml" filepath="$PROJECT_DIR$/FinalProject/minesweeper/minesweeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/numberSort/numberSort.iml" filepath="$PROJECT_DIR$/java101/numberSort/numberSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/palindromeNumber/palindromeNumber.iml" filepath="$PROJECT_DIR$/Methods/palindromeNumber/palindromeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/recursivePrime/recursivePrime.iml" filepath="$PROJECT_DIR$/Methods/recursivePrime/recursivePrime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/suggestActivity/suggestActivity.iml" filepath="$PROJECT_DIR$/java101/suggestActivity/suggestActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/sumOfDigits/sumOfDigits.iml" filepath="$PROJECT_DIR$/java101/sumOfDigits/sumOfDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/switchCaseCalculator/switchCaseCalculator.iml" filepath="$PROJECT_DIR$/java101/switchCaseCalculator/switchCaseCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java101/taximeterApp/taximeterApp.iml" filepath="$PROJECT_DIR$/java101/taximeterApp/taximeterApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/upgradedCalculator/upgradedCalculator.iml" filepath="$PROJECT_DIR$/Methods/upgradedCalculator/upgradedCalculator.iml" />
+    </modules>
+  </component>
+</project>
